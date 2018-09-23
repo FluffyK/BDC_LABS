@@ -22,5 +22,6 @@ Create a database called the university with default properties. Within this dat
 ## Task 4
 Include in the respective tables of the university database the following entries:
 
-![image]()
-![image]()
+![image](https://github.com/FluffyK/BDC_LABS/blob/master/4_1.png)
+
+![image](https://github.com/FluffyK/BDC_LABS/blob/master/4_2.png)
