@@ -14,4 +14,13 @@ DECIMAL(12,1)
 
 ## Task 3
 Create a database called the university with default properties. Within this database, create 2 tables (groups, disciplines), the schemes of which are defined in section 3.3 of the chapter.
+
 ![image](https://github.com/FluffyK/BDC_LABS/blob/master/image.png)
+
+![image](https://github.com/FluffyK/BDC_LABS/blob/master/discipline.JPG)
+
+## Task 4
+Include in the respective tables of the university database the following entries:
+
+![image]()
+![image]()
